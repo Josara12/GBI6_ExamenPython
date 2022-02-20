@@ -1,6 +1,6 @@
 # GBI6_Examen_Parcial2
-Nombre: Sarai Josabeth Gaibor Cobos 
-CI 1727559385 
+##Nombre: Sarai Josabeth Gaibor Cobos 
+##CI 1727559385 
 Nombre del dispositivo DESKTOP-BHBV8TK
 Procesador Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz
 RAM instalada 8,00 GB (7,87 GB usable)
